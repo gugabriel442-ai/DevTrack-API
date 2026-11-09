@@ -1,0 +1,6 @@
+.env
+.env.aiven
+certs/
+.venv/
+__pycache__/
+.pytest_cache/
